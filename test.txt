@@ -1,0 +1,22 @@
+git at master.
+edit on branch dev.
+Creating a new branch is quick AND simple.
+
+dev test
+
+Git is a free software.
+
+edit on local dev
+
+Git is a free software
+
+working on branch dev
+
+working on branch dev on acer
+
+this is another dev
+
+edit file after anothen dev modified
+
+20170714_0009
+
